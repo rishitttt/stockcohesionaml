@@ -1,0 +1,221 @@
+ticker,promoter_group,nse_sector,gics_sub_industry
+ACC,Adani,Cement,Cement
+AMBUJACEM,Adani,Cement,Cement
+ADANIENT,Adani,Construction,Industrial Conglomerates
+ADANIPORTS,Adani,Construction,Marine Ports & Services
+ATGL,Adani,Energy,Gas Utilities
+ADANIGREEN,Adani,Power,Renewable Electricity
+ADANIPOWER,Adani,Power,Electric Utilities
+BAJAJ-AUTO,Bajaj,Automobile,Motorcycle Manufacturers
+BAJAJFINSV,Bajaj,Financial Services,Multi-Sector Holdings
+BAJFINANCE,Bajaj,Financial Services,Consumer Finance
+GRASIM,Birla,Cement,Cement
+ULTRACEMCO,Birla,Cement,Cement
+ABFRL,Birla,Consumer Durables,Apparel Retail
+ABCAPITAL,Birla,Financial Services,Diversified Capital Markets
+HINDALCO,Birla,Metals & Mining,Aluminum
+IDEA,Birla,Telecom,Wireless Telecommunication Services
+BALKRISIND,Independent,Automobile,Auto Parts & Equipment
+BHARATFORG,Independent,Automobile,Auto Parts & Equipment
+EICHERMOT,Independent,Automobile,Motorcycle Manufacturers
+ENDURANCE,Independent,Automobile,Auto Parts & Equipment
+EXIDEIND,Independent,Automobile,Auto Parts & Equipment
+HEROMOTOCO,Independent,Automobile,Motorcycle Manufacturers
+MARUTI,Independent,Automobile,Automobile Manufacturers
+MOTHERSON,Independent,Automobile,Auto Parts & Equipment
+SONACOMS,Independent,Automobile,Auto Parts & Equipment
+TVSMOTOR,Independent,Automobile,Motorcycle Manufacturers
+UNOMINDA,Independent,Automobile,Auto Parts & Equipment
+ASTRAL,Independent,Capital Goods,Building Products
+BOSCHLTD,Independent,Capital Goods,Auto Parts & Equipment
+CUMMINSIND,Independent,Capital Goods,Industrial Machinery
+HONAUT,Independent,Capital Goods,Industrial Machinery
+KEI,Independent,Capital Goods,Electrical Components & Equipment
+MRF,Independent,Capital Goods,Tires & Rubber
+POLYCAB,Independent,Capital Goods,Electrical Components & Equipment
+SCHAEFFLER,Independent,Capital Goods,Industrial Machinery
+SIEMENS,Independent,Capital Goods,Heavy Electrical Equipment
+SUNDRMFAST,Independent,Capital Goods,Industrial Machinery
+SUPREMEIND,Independent,Capital Goods,Building Products
+THERMAX,Independent,Capital Goods,Industrial Machinery
+TIMKEN,Independent,Capital Goods,Industrial Machinery
+TRIDENT,Independent,Capital Goods,Textile Manufacturing
+DALBHARAT,Independent,Cement,Cement
+JKCEMENT,Independent,Cement,Cement
+RAMCOCEM,Independent,Cement,Cement
+CLEAN,Independent,Chemicals,Specialty Chemicals
+COROMANDEL,Independent,Chemicals,Fertilizers & Agricultural Chemicals
+DEEPAKNTR,Independent,Chemicals,Specialty Chemicals
+NAVINFLUOR,Independent,Chemicals,Specialty Chemicals
+NOCIL,Independent,Chemicals,Specialty Chemicals
+PIIND,Independent,Chemicals,Specialty Chemicals
+SRF,Independent,Chemicals,Specialty Chemicals
+SUMICHEM,Independent,Chemicals,Fertilizers & Agricultural Chemicals
+UPL,Independent,Chemicals,Fertilizers & Agricultural Chemicals
+DELHIVERY,Independent,Construction,Air Freight & Logistics
+DLF,Independent,Construction,Real Estate Development
+GMRAIRPORT,Independent,Construction,Airport Services
+GODREJPROP,Independent,Construction,Real Estate Development
+LT,Independent,Construction,Construction & Engineering
+OBEROIRLTY,Independent,Construction,Real Estate Development
+PHOENIX,Independent,Construction,Real Estate Development
+PRESTIGE,Independent,Construction,Real Estate Development
+ASIANPAINT,Independent,Consumer Durables,Specialty Chemicals
+BERGEPAINT,Independent,Consumer Durables,Specialty Chemicals
+CROMPTON,Independent,Consumer Durables,Electrical Components & Equipment
+HAVELLS,Independent,Consumer Durables,Electrical Components & Equipment
+KAJARIACER,Independent,Consumer Durables,Building Products
+KANSAINER,Independent,Consumer Durables,Specialty Chemicals
+PIDILITIND,Independent,Consumer Durables,Specialty Chemicals
+SYMPHONY,Independent,Consumer Durables,Household Appliances
+WHIRLPOOL,Independent,Consumer Durables,Household Appliances
+GSPL,Independent,Energy,Gas Utilities
+GUJGASLTD,Independent,Energy,Gas Utilities
+IGL,Independent,Energy,Gas Utilities
+BATAINDIA,Independent,FMCG,Footwear
+BRITANNIA,Independent,FMCG,Packaged Foods & Meats
+COLPAL,Independent,FMCG,Household Products
+DABUR,Independent,FMCG,Personal Products
+EIDPARRY,Independent,FMCG,Agricultural Products
+EMAMILTD,Independent,FMCG,Personal Products
+GODREJCP,Independent,FMCG,Personal Products
+HATSUN,Independent,FMCG,Packaged Foods & Meats
+HINDUNILVR,Independent,FMCG,Household Products
+ITC,Independent,FMCG,Tobacco
+JUBLFOOD,Independent,FMCG,Restaurants
+MARICO,Independent,FMCG,Personal Products
+MCDOWELL-N,Independent,FMCG,Distillers & Vintners
+NESTLEIND,Independent,FMCG,Packaged Foods & Meats
+PAGEIND,Independent,FMCG,Apparel & Accessories
+RADICO,Independent,FMCG,Distillers & Vintners
+RAJESHEXPO,Independent,FMCG,Packaged Foods & Meats
+RELAXO,Independent,FMCG,Footwear
+UBL,Independent,FMCG,Brewers
+AUBANK,Independent,Financial Services,Regional Banks
+AXISBANK,Independent,Financial Services,Diversified Banks
+BANDHANBNK,Independent,Financial Services,Regional Banks
+CAMS,Independent,Financial Services,Financial Exchanges & Data
+CANFINHOME,Independent,Financial Services,Thrifts & Mortgage Finance
+CDSL,Independent,Financial Services,Financial Exchanges & Data
+CHOLAFIN,Independent,Financial Services,Consumer Finance
+CUB,Independent,Financial Services,Regional Banks
+FEDERALBNK,Independent,Financial Services,Regional Banks
+FIVESTAR,Independent,Financial Services,Consumer Finance
+HDFCBANK,Independent,Financial Services,Diversified Banks
+HDFCLIFE,Independent,Financial Services,Life & Health Insurance
+ICICIBANK,Independent,Financial Services,Diversified Banks
+ICICIGI,Independent,Financial Services,Property & Casualty Insurance
+ICICIPRULI,Independent,Financial Services,Life & Health Insurance
+IDFCFIRSTB,Independent,Financial Services,Diversified Banks
+IIFL,Independent,Financial Services,Diversified Capital Markets
+INDUSINDBK,Independent,Financial Services,Diversified Banks
+KOTAKBANK,Independent,Financial Services,Diversified Banks
+L&TFH,Independent,Financial Services,Consumer Finance
+LICHSGFIN,Independent,Financial Services,Thrifts & Mortgage Finance
+LTF,Independent,Financial Services,Consumer Finance
+MANAPPURAM,Independent,Financial Services,Consumer Finance
+MCX,Independent,Financial Services,Financial Exchanges & Data
+MUTHOOTFIN,Independent,Financial Services,Consumer Finance
+NAM-INDIA,Independent,Financial Services,Asset Management
+POLICYBZR,Independent,Financial Services,Insurance Brokers
+RBLBANK,Independent,Financial Services,Regional Banks
+SBICARD,Independent,Financial Services,Consumer Finance
+SBILIFE,Independent,Financial Services,Life & Health Insurance
+SHRIRAMFIN,Independent,Financial Services,Consumer Finance
+STARHEALTH,Independent,Financial Services,Life & Health Insurance
+SUNDARMFIN,Independent,Financial Services,Consumer Finance
+UJJIVANSFB,Independent,Financial Services,Regional Banks
+AFFLE,Independent,IT,Application Software
+COFORGE,Independent,IT,IT Services
+HAPPSTMNDS,Independent,IT,IT Services
+HCLTECH,Independent,IT,IT Services
+INDIAMART,Independent,IT,Internet Services & Infrastructure
+INFY,Independent,IT,IT Services
+KPITTECH,Independent,IT,IT Services
+LTIM,Independent,IT,IT Services
+MPHASIS,Independent,IT,IT Services
+NAUKRI,Independent,IT,Internet Services & Infrastructure
+OFSS,Independent,IT,Application Software
+PAYTM,Independent,IT,Internet Services & Infrastructure
+PERSISTENT,Independent,IT,IT Services
+ROUTE,Independent,IT,IT Services
+WIPRO,Independent,IT,IT Services
+ZOMATO,Independent,IT,Internet Services & Infrastructure
+PVRINOX,Independent,Media,Movies & Entertainment
+SUNTV,Independent,Media,Broadcasting
+ZEEL,Independent,Media,Broadcasting
+JINDALSTEL,Independent,Metals & Mining,Steel
+JSWSTEEL,Independent,Metals & Mining,Steel
+VEDL,Independent,Metals & Mining,Diversified Metals & Mining
+APOLLOHOSP,Independent,Pharma,Health Care Facilities
+AUROPHARMA,Independent,Pharma,Pharmaceuticals
+BIOCON,Independent,Pharma,Biotechnology
+CIPLA,Independent,Pharma,Pharmaceuticals
+DIVISLAB,Independent,Pharma,Pharmaceuticals
+DRREDDY,Independent,Pharma,Pharmaceuticals
+FORTIS,Independent,Pharma,Health Care Facilities
+GLAXO,Independent,Pharma,Pharmaceuticals
+GLENMARK,Independent,Pharma,Pharmaceuticals
+IPCALAB,Independent,Pharma,Pharmaceuticals
+LALPATHLAB,Independent,Pharma,Health Care Services
+LAURUSLABS,Independent,Pharma,Life Sciences Tools & Services
+LUPIN,Independent,Pharma,Pharmaceuticals
+MAXHEALTH,Independent,Pharma,Health Care Facilities
+METROPOLIS,Independent,Pharma,Health Care Services
+SUNPHARMA,Independent,Pharma,Pharmaceuticals
+SUVENPHAR,Independent,Pharma,Pharmaceuticals
+SYNGENE,Independent,Pharma,Life Sciences Tools & Services
+TORNTPHARM,Independent,Pharma,Pharmaceuticals
+ZYDUSLIFE,Independent,Pharma,Pharmaceuticals
+JSWENERGY,Independent,Power,Electric Utilities
+TORNTPOWER,Independent,Power,Electric Utilities
+BHARTIARTL,Independent,Telecom,Wireless Telecommunication Services
+ESCORTS,Mahindra,Automobile,Agricultural Machinery
+M&M,Mahindra,Automobile,Automobile Manufacturers
+MFSL,Mahindra,Financial Services,Diversified Capital Markets
+TECHM,Mahindra,IT,IT Services
+BEL,PSU,Capital Goods,Aerospace & Defense
+HAL,PSU,Capital Goods,Aerospace & Defense
+CONCOR,PSU,Construction,Marine Ports & Services
+IRB,PSU,Construction,Highways & Railtracks
+IRCTC,PSU,Construction,Railroads
+BPCL,PSU,Energy,Oil & Gas Refining
+GAIL,PSU,Energy,Oil & Gas Storage & Transportation
+HINDPETRO,PSU,Energy,Oil & Gas Refining
+IOC,PSU,Energy,Oil & Gas Refining
+ONGC,PSU,Energy,Integrated Oil & Gas
+PETRONET,PSU,Energy,Oil & Gas Storage & Transportation
+BANKBARODA,PSU,Financial Services,Diversified Banks
+CANBK,PSU,Financial Services,Diversified Banks
+CENTRALBK,PSU,Financial Services,Diversified Banks
+HUDCO,PSU,Financial Services,Specialized Finance
+IDBI,PSU,Financial Services,Diversified Banks
+INDIANB,PSU,Financial Services,Diversified Banks
+IRFC,PSU,Financial Services,Specialized Finance
+NIACL,PSU,Financial Services,Property & Casualty Insurance
+PFC,PSU,Financial Services,Specialized Finance
+PNB,PSU,Financial Services,Diversified Banks
+RECLTD,PSU,Financial Services,Specialized Finance
+SBIN,PSU,Financial Services,Diversified Banks
+UNIONBANK,PSU,Financial Services,Diversified Banks
+COALINDIA,PSU,Metals & Mining,Coal & Consumable Fuels
+NATIONALUM,PSU,Metals & Mining,Aluminum
+NMDC,PSU,Metals & Mining,Steel
+SAIL,PSU,Metals & Mining,Steel
+NHPC,PSU,Power,Electric Utilities
+NLCINDIA,PSU,Power,Electric Utilities
+NTPC,PSU,Power,Electric Utilities
+POWERGRID,PSU,Power,Electric Utilities
+RELIANCE,Reliance,Energy,Integrated Oil & Gas
+TATAMOTORS,Tata,Automobile,Automobile Manufacturers
+TATACHEM,Tata,Chemicals,Commodity Chemicals
+TITAN,Tata,Consumer Durables,Apparel & Accessories
+TRENT,Tata,Consumer Durables,Apparel Retail
+VOLTAS,Tata,Consumer Durables,Building Products
+INDHOTEL,Tata,FMCG,Hotels & Resorts
+TATACONSUM,Tata,FMCG,Packaged Foods & Meats
+TATAELXSI,Tata,IT,IT Services
+TCS,Tata,IT,IT Services
+TATASTEEL,Tata,Metals & Mining,Steel
+TATAPOWER,Tata,Power,Electric Utilities
+TATACOMM,Tata,Telecom,Integrated Telecommunication Services
