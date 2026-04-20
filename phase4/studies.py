@@ -53,9 +53,9 @@ class StudySpec:
 
 
 @dataclass(frozen=True)
-class SubmissionSpec:
+class Phase4Spec:
     input_path: Path = Path("data/completed/weekly_panel_completed.csv")
-    output_dir: Path = Path("data/phase4_prof")
+    output_dir: Path = Path("phase4/results")
     rolling_window: int = 52
     rolling_min_obs: int = 26
     min_stocks: int = 100
@@ -732,20 +732,20 @@ def write_md2_report(output_path: Path, variance_summary: pd.DataFrame, group_su
 
 def write_master_summary(output_path: Path, input_path: Path, output_dir: Path) -> None:
     lines = []
-    lines.append("# Phase 4 Submission Package")
+    lines.append("# Phase 4 Summary")
     lines.append("")
     lines.append(f"- Input panel: `{input_path}`")
-    lines.append(f"- Notebook deliverable: `phase4/phase4_submission_notebook.ipynb`")
+    lines.append(f"- Notebook: `phase4/phase4_analysis_notebook.ipynb`")
     lines.append(f"- Output assets: `{output_dir}`")
     lines.append("")
-    lines.append("This package contains only the two original professor-requested studies:")
+    lines.append("This package contains only the two original Phase 4 studies:")
     lines.append("- MD1: the rolling correlation study")
     lines.append("- MD2: the weekly cross-sectional variance decomposition")
     output_path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def run_submission_package(spec: SubmissionSpec | None = None) -> dict[str, pd.DataFrame]:
-    spec = spec or SubmissionSpec()
+def run_phase4_package(spec: Phase4Spec | None = None) -> dict[str, pd.DataFrame]:
+    spec = spec or Phase4Spec()
     panel = load_panel(spec.input_path)
 
     md1_dir = spec.output_dir / "md1_rolling_correlation"
@@ -785,7 +785,7 @@ def run_submission_package(spec: SubmissionSpec | None = None) -> dict[str, pd.D
     plot_md2_groups(md2_groups, md2_dir / "02_group_contributions.png", spec.smooth_weeks)
     write_md2_report(md2_dir / "REPORT.md", md2_summary, md2_group_summary)
 
-    write_master_summary(spec.output_dir / "PHASE4_MASTER_SUMMARY.md", spec.input_path, spec.output_dir)
+    write_master_summary(spec.output_dir / "PHASE4_SUMMARY.md", spec.input_path, spec.output_dir)
 
     return {
         "md1_metrics": md1_metrics,

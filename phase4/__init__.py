@@ -1,1 +1,1 @@
-"""Professor-facing Phase 4 notebook package."""
+"""Phase 4 analysis package."""
